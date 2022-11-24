@@ -1,8 +1,5 @@
 <img src="./assets/header_dotted.png" width=100%>
-
-<!-- Hello, my name is Moran 👋 I graduated the code wild school program for fullstack development in July 2022 ➡️ In my profile you can find different repositories such as solo projects, team projects and on-going workshops I keep doing and learning. I do my best to make my code dry and easy to follow. If you have any questions or feedback regarding my code, please feel free to contact me via LinkedIn and let's chat about my passion, coding 🤗 -->
-
-<img src="./assets/description.png" >
+<img src="./assets/../description_narrow.png" >
 
 ---
 
