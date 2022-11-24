@@ -1,5 +1,5 @@
-<img src="./assets/header_dotted.png" width=100%>
-<img src="./assets/../description_narrow.png" >
+![banner](./assets/header_dotted.png)
+![description](./description_narrow.png)
 
 ---
 
