@@ -1,5 +1,3 @@
-![banner](./assets/header_dotted.png)
-![description](./description_narrow.png)
 
 ---
 
